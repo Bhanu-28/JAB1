@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Square and Perimeter of side
 public class Variables {
     public static void main(String[] args) {
         //starts with _ or A-Z or $ can't use keywords

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ProgramThree {
-
+//Divisble by 5 and 3
     public static void main(String[] args) {
 
         int num;

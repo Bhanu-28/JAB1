@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class ProgramTwo {
-
+//Greater numbers
     public static void main(String[] args){
 
         int a,b;
